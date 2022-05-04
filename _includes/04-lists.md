@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+1. Soccer games
+2. Women
+3. Rain
+
+* Sherlock Holmes
+* Pride in Defeat
+* shabdangal
