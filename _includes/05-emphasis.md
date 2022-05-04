@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+1. likes **competetive** programming
+2. Likes *java* as a programming language
+3. More of a _problem **solver**_
